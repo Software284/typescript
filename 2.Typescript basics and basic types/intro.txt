@@ -1,0 +1,16 @@
+Core Types:
+i. number
+ii.string
+iii. boolean
+iv. object
+v. arrays
+vi. Tuple
+vii. enum
+viii. any type
+
+
+ix. union types
+x. literal types
+xi. type alias 
+
+xii. function return type and void
