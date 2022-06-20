@@ -9,3 +9,8 @@ npm install --save-dev lite-server
 npm start
 
 tsc app.ts -w(watch)
+
+for multiple file watch
+tsc --init
+tsc
+tsc -w 
